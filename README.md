@@ -1,5 +1,5 @@
 # LipstickExpert
-A web search engine related to lipsticks recommendation
+A web search engine related to lipsticks recommendation. Try it on https://lipstickexpert.netlify.app/
 
 # Script Folder
 This folder contains scripts for data processing and generating final results.
